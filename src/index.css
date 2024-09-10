@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+    padding: 10px 15px;
+    background: slategray;
+    color: white;
+    margin: 15px;
+}
+input{
+    border: 1px solid silver;
+    padding: 10px 15px;
+
+}
